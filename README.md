@@ -5,8 +5,7 @@
 
 ## 📸 Demo
 
-![AMR in Gazebo](images/task2(1).gif)
-
+![AMR in Gazebo](amr_description/images/task2(1).gif)
 ---
 
 ## 🤖 The Robot
